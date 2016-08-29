@@ -1,7 +1,5 @@
 James Potvin And Dustin Kushnereit
 
-https://bitbucket.org/BetrayalWolf/egp405_a2_02_kushnereit_potvin
-
 This games is a new retrospective on the classic pong with a little bit of brickbreaker sneaking into
 the game. Each player has a set of 18 bricks blocking their "goal". If the ball makes its' way through
 a players bricks and into their goal, that player will lose a life. If a player loses all their lives,
